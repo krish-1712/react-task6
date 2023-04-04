@@ -1,0 +1,66 @@
+[
+    {
+        "id"  :"1",
+        "Name":"Harish",
+        "Age": 23,
+        "Email":"harish@gmail.com",
+        "Course":"ICE",
+        "Hobbies":"Cricket"
+    },
+    {
+        "id":"2",
+        "Name":"Jaya Surya",
+        "Age": 24,
+        "Email":"surya@gmail.com",
+        "Course":"ICE",
+        "Hobbies":"Cricket"
+    },
+    {
+        "id":"3",
+        "Name":"Nizam",
+        "Age": 23,
+        "Email":"Nizam@gmail.com",
+        "Course":"ICE",
+        "Hobbies":"Basket Ball"
+    },
+    {
+        "id":"4",
+        "Name":"Karthik",
+        "Age": 23,
+        "Email":"Karthik@gmail.com",
+        "Course":"ECE",
+        "Hobbies":"Cricket"
+    },
+    {
+        "id":"5",
+        "Name":"Krish",
+        "Age": 23,
+        "Email":"Krish@gmail.com",
+        "Course":"ICE",
+        "Hobbies":"Cricket"
+    },
+    {
+        "id":"6",
+        "Name":"Swetha",
+        "Age": 23,
+        "Email":"swetha@gmail.com",
+        "Course":"ICE",
+        "Hobbies":"Badmiton"
+    },
+    {
+        "id":"7",
+        "Name":"Aishwerya",
+        "Age": 23,
+        "Email":"aisu@gmail.com",
+        "Course":"ICE",
+        "Hobbies":"Badmiton"
+    },
+    {
+        "id":"8",
+        "Name":"Gayathiri",
+        "Age": 23,
+        "Email":"gayathiri@gmail.com",
+        "Course":"ECE",
+        "Hobbies":"Badmiton"
+    }
+]
