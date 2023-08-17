@@ -88,6 +88,11 @@ export default function TeacherUser() {
                 >Add</button>
 
             </div>
+            <footer className="write5">
+                    Contact us
+                    <div>Email :  teacher@gmail.com</div>
+                    <div>Phone : 86*****743</div>
+                </footer>
         </BaseApp>
 
     )

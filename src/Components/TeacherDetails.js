@@ -24,6 +24,11 @@ import BaseApp from "../Core/Base";
                     
                  </div>
                  </div>
+                 <footer className="write4">
+                    Contact us
+                    <div>Email :  teacher@gmail.com</div>
+                    <div>Phone : 86*****743</div>
+                </footer>
            
         </BaseApp>
     )

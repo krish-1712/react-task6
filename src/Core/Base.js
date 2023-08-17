@@ -45,11 +45,7 @@ export default function BaseApp({ title, styles, children }) {
               
                     {children}
                    
-                <footer>
-                    Contact us
-                    <div>Email : Centre@gmail.com</div>
-                    <div>Phone : 86*****743</div>
-                </footer>
+             
             </div>
 
         </div>

@@ -108,6 +108,11 @@ export const EditUser=()=>{
                 >Edit</button>
          
         </div>
+        <footer className="write2">
+                    Contact us
+                    <div>Email : teacher@gmail.com</div>
+                    <div>Phone : 86*****743</div>
+                </footer>
         </BaseApp>
      )
 }

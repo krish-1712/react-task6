@@ -71,7 +71,7 @@ export function AddUser(){
                 /><br></br>
 
                 <input placeholder="Email" className="email" type="text"
-                 value={Email}
+                 value={Email}  
                  onChange={(event)=>setEmail(event.target.value)}
                 /><br></br>
 
@@ -90,7 +90,13 @@ export function AddUser(){
                 >Add</button>
          
         </div>
+        <footer className="write">
+                    Contact us
+                    <div>Email : teacher@gmail.com</div>
+                    <div>Phone : 86*****743</div>
+                </footer>
         </BaseApp>
+        
        
     )
 }
